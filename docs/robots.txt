@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /Xwebsite/api/
+Sitemap: https://liqudvenom.github.io/Xwebsite/sitemap.xml

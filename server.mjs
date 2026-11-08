@@ -103,4 +103,5 @@ const server=http.createServer(async(req,res)=>{
   if(!file.startsWith(path.resolve(root,'public')+path.sep)){res.writeHead(403);res.end('Forbidden');return;}
   try{const body=await readFile(file);res.writeHead(200,{'content-type':types[path.extname(file)]||'application/octet-stream','cache-control':'no-cache'});res.end(body);}catch{res.writeHead(404,{'content-type':'text/plain'});res.end('Not found');}
 });
-server.listen(port,()=>console.log(`Removals and Storage X prototype ready at http://localhost:${port}`));
+export { pages, pageBody };
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) server.listen(port,()=>console.log(`Removals and Storage X prototype ready at http://localhost:${port}`));
