@@ -1,0 +1,186 @@
+- generic [active] [ref=f35e1]:
+  - link "Skip to content" [ref=f35e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f35e3]:
+    - generic [ref=f35e4]: Carefully planned removals & storage in London
+    - generic [ref=f35e5]:
+      - text: Call the team
+      - link "0208 3517 101 ↗" [ref=f35e6] [cursor=pointer]:
+        - /url: tel:+442083517101
+  - banner [ref=f35e7]:
+    - link "Removals and Storage X home" [ref=f35e8] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f35e9]: X
+      - generic [ref=f35e10]: REMOVALS &STORAGE X
+    - navigation [ref=f35e11]:
+      - link "Home" [ref=f35e12] [cursor=pointer]:
+        - /url: /
+      - group [ref=f35e13]:
+        - generic "Storage" [ref=f35e14] [cursor=pointer]
+      - group [ref=f35e17]:
+        - generic "Locations" [ref=f35e18] [cursor=pointer]
+      - group [ref=f35e21]:
+        - generic "Office" [ref=f35e22] [cursor=pointer]
+      - group [ref=f35e25]:
+        - generic "Residential" [ref=f35e26] [cursor=pointer]
+      - link "Pricing" [ref=f35e29] [cursor=pointer]:
+        - /url: /pricing
+      - link "About" [ref=f35e30] [cursor=pointer]:
+        - /url: /about
+      - group [ref=f35e31]:
+        - generic "Contact Us" [ref=f35e32] [cursor=pointer]
+      - link "Get a quote ↗" [ref=f35e35] [cursor=pointer]:
+        - /url: /get-a-quote
+  - main [ref=f35e36]:
+    - generic [ref=f35e37]:
+      - generic [ref=f35e38]:
+        - navigation "Breadcrumb" [ref=f35e39]:
+          - link "Home" [ref=f35e40] [cursor=pointer]:
+            - /url: /
+          - text: /
+          - link "Services" [ref=f35e41] [cursor=pointer]:
+            - /url: /services
+          - text: / IT relocation services
+        - text: MOVING & RELOCATION
+        - heading "Plan around your equipment" [level=1] [ref=f35e42]
+        - paragraph [ref=f35e43]: List workstations, servers and other IT equipment, access windows and any disconnect or reconnect requirements for discussion.
+        - generic [ref=f35e44]:
+          - link "Plan your move ↗" [ref=f35e45] [cursor=pointer]:
+            - /url: /get-a-quote?service=office
+            - text: Plan your move
+            - generic [ref=f35e46]: ↗
+          - link "Call 0208 3517 101 ↗" [ref=f35e47] [cursor=pointer]:
+            - /url: tel:+442083517101
+      - generic [ref=f35e48]: ILLUSTRATIVE IMAGE
+    - generic [ref=f35e50]:
+      - generic [ref=f35e51]:
+        - text: A PLAN BUILT AROUND YOU
+        - 'heading "IT relocation services: the details that matter." [level=2] [ref=f35e52]': IT relocation services:the details that matter.
+        - paragraph [ref=f35e53]: List workstations, servers and other IT equipment, access windows and any disconnect or reconnect requirements for discussion.
+        - paragraph [ref=f35e54]: Every enquiry is reviewed individually. Tell us what you already know and confirm the agreed scope, insurance terms and any restrictions before booking.
+        - link "Understand your quote ↗" [ref=f35e55] [cursor=pointer]:
+          - /url: /pricing
+      - generic [ref=f35e56]:
+        - text: WHAT TO INCLUDE IN YOUR ENQUIRY
+        - generic [ref=f35e57]:
+          - generic [ref=f35e58]: "01"
+          - generic [ref=f35e59]: Building access and loading bays
+          - generic [ref=f35e60]: ↗
+        - generic [ref=f35e61]:
+          - generic [ref=f35e62]: "02"
+          - generic [ref=f35e63]: Equipment, furniture and packing
+          - generic [ref=f35e64]: ↗
+        - generic [ref=f35e65]:
+          - generic [ref=f35e66]: "03"
+          - generic [ref=f35e67]: Service lifts and permitted hours
+          - generic [ref=f35e68]: ↗
+        - generic [ref=f35e69]:
+          - generic [ref=f35e70]: "04"
+          - generic [ref=f35e71]: Storage and delivery requirements
+          - generic [ref=f35e72]: ↗
+    - generic [ref=f35e73]:
+      - generic [ref=f35e74]:
+        - text: GOOD TO KNOW
+        - heading "Questions before you get started?" [level=2] [ref=f35e75]: Questions beforeyou get started?
+        - paragraph [ref=f35e76]: Discuss the specific details of your move or storage with the team.
+        - link "Contact us ↗" [ref=f35e77] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=f35e78]:
+        - group [ref=f35e79]:
+          - generic "What details should I provide for a quote?" [ref=f35e80] [cursor=pointer]
+          - paragraph [ref=f35e81]: Share the addresses, the contents, preferred timing, property access and any items that need additional care.
+        - group [ref=f35e82]:
+          - generic "How much will it cost?" [ref=f35e83] [cursor=pointer]
+        - group [ref=f35e84]:
+          - generic "Can I add packing or other help?" [ref=f35e85] [cursor=pointer]
+    - generic [ref=f35e86]:
+      - generic [ref=f35e87]:
+        - generic [ref=f35e88]:
+          - text: CUSTOMER EXPERIENCES
+          - heading "Words from people who moved with us." [level=2] [ref=f35e89]: Words from peoplewho moved with us.
+        - paragraph [ref=f35e90]: Read the full reviews and the latest feedback on the independent review profile.
+      - generic [ref=f35e91]:
+        - generic [ref=f35e92]:
+          - generic [ref=f35e93]: ✦
+          - text: CUSTOMER REVIEWS
+          - heading "Read the stories behind the moves." [level=3] [ref=f35e94]: Read the storiesbehind the moves.
+          - paragraph [ref=f35e95]: Visit the public Trustpilot profile to explore recent reviews and current ratings.
+          - link "See reviews on Trustpilot ↗" [ref=f35e96] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+        - article [ref=f35e97]:
+          - generic [ref=f35e98]: “
+          - blockquote [ref=f35e99]: Excellent customer service
+          - paragraph [ref=f35e100]: Georgia · Office move · August 2026
+          - link "Read on Trustpilot ↗" [ref=f35e101] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+        - article [ref=f35e102]:
+          - generic [ref=f35e103]: “
+          - blockquote [ref=f35e104]: Responsive, prompt, friendly, professional.
+          - paragraph [ref=f35e105]: MaxH · Moving and storage · March 2026
+          - link "Read on Trustpilot ↗" [ref=f35e106] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+      - generic [ref=f35e107]:
+        - generic [ref=f35e108]:
+          - generic [ref=f35e109]: B
+          - generic [ref=f35e110]:
+            - generic [ref=f35e111]: BAR membership
+            - generic [ref=f35e112]: Stated by the company since March 2026
+        - generic [ref=f35e113]:
+          - generic [ref=f35e114]: ✦
+          - generic [ref=f35e115]:
+            - generic [ref=f35e116]: Independent reviews
+            - generic [ref=f35e117]: Read customer experiences on Trustpilot
+        - generic [ref=f35e118]:
+          - generic [ref=f35e119]: ✓
+          - generic [ref=f35e120]:
+            - generic [ref=f35e121]: Written quotation
+            - generic [ref=f35e122]: Confirm services and terms before booking
+    - generic [ref=f35e123]:
+      - generic [ref=f35e124]:
+        - text: YOUR NEXT STEP
+        - heading "Let’s plan the details." [level=2] [ref=f35e125]
+      - link "Request a personalised quote ↗" [ref=f35e126] [cursor=pointer]:
+        - /url: /get-a-quote?service=office
+        - text: Request a personalised quote
+        - generic [ref=f35e127]: ↗
+  - contentinfo [ref=f35e128]:
+    - generic [ref=f35e129]:
+      - generic [ref=f35e130]:
+        - link "X REMOVALS & STORAGE X" [ref=f35e131] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f35e132]: X
+          - generic [ref=f35e133]: REMOVALS &STORAGE X
+        - paragraph [ref=f35e134]: Thoughtful moves. Clearly planned.
+      - generic [ref=f35e135]:
+        - generic [ref=f35e136]: EXPLORE
+        - link "Our services" [ref=f35e137] [cursor=pointer]:
+          - /url: /services
+        - link "Storage" [ref=f35e138] [cursor=pointer]:
+          - /url: /storage
+        - link "Business moves" [ref=f35e139] [cursor=pointer]:
+          - /url: /business-moves
+        - link "Pricing" [ref=f35e140] [cursor=pointer]:
+          - /url: /pricing
+        - link "About us" [ref=f35e141] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=f35e142]:
+        - generic [ref=f35e143]: GET IN TOUCH
+        - link "0208 3517 101" [ref=f35e144] [cursor=pointer]:
+          - /url: tel:+442083517101
+        - link "info@removalsandstoragex.com" [ref=f35e145] [cursor=pointer]:
+          - /url: mailto:info@removalsandstoragex.com
+        - link "WhatsApp · 07555 081 555" [ref=f35e146] [cursor=pointer]:
+          - /url: https://wa.me/447555081555
+      - generic [ref=f35e147]:
+        - text: WHEREVER YOU’RE HEADED
+        - link "Let’s plan the move ↗" [ref=f35e148] [cursor=pointer]:
+          - /url: /get-a-quote
+    - generic [ref=f35e149]:
+      - generic [ref=f35e150]: © 2026 Removals and Storage X
+      - generic [ref=f35e151]: London · England
+      - generic [ref=f35e152]: Quotes are personalised and subject to confirmation.
+      - generic [ref=f35e153]: Photography is illustrative.
+  - link "Contact Removals and Storage X" [ref=f35e154] [cursor=pointer]:
+    - /url: /contact
+    - generic [ref=f35e155]: "?"
+    - generic [ref=f35e156]: Need a hand?

@@ -1,0 +1,249 @@
+- generic [active] [ref=f18e1]:
+  - link "Skip to content" [ref=f18e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f18e3]:
+    - generic [ref=f18e4]: Carefully planned removals & storage in London
+    - generic [ref=f18e5]:
+      - text: Call the team
+      - link "0208 3517 101 ↗" [ref=f18e6] [cursor=pointer]:
+        - /url: tel:+442083517101
+  - banner [ref=f18e7]:
+    - link "Removals and Storage X home" [ref=f18e8] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f18e9]: X
+      - generic [ref=f18e10]: REMOVALS &STORAGE X
+    - button "Open navigation" [ref=f18e11]
+  - main [ref=f18e14]:
+    - generic [ref=f18e15]:
+      - generic [ref=f18e16]:
+        - generic [ref=f18e17]: LONDON · REMOVALS · STORAGE
+        - heading "Moving made effortless." [level=1] [ref=f18e19]
+        - paragraph [ref=f18e20]: From the first box to the final delivery, plan a London move with the details that matter to you.
+        - generic [ref=f18e21]:
+          - link "Plan your move ↗" [ref=f18e22] [cursor=pointer]:
+            - /url: /get-a-quote
+            - text: Plan your move
+            - generic [ref=f18e23]: ↗
+          - link "Explore our services ↓" [ref=f18e24] [cursor=pointer]:
+            - /url: /services
+            - text: Explore our services
+            - generic [ref=f18e25]: ↓
+        - generic [ref=f18e26]:
+          - generic [ref=f18e27]: B
+          - generic [ref=f18e28]:
+            - generic [ref=f18e29]: BAR member since March 2026
+            - generic [ref=f18e30]: As stated on the company website
+      - generic [ref=f18e32]:
+        - generic [ref=f18e33]:
+          - generic [ref=f18e34]: STEP 1 OF 8 · SERVICE
+          - generic [ref=f18e45]:
+            - heading "What can we help you move?" [level=3] [ref=f18e46]
+            - paragraph [ref=f18e47]: Choose a starting point. We will adapt the next questions to fit.
+            - generic [ref=f18e48]:
+              - button "⌂ House or flat" [ref=f18e49] [cursor=pointer]:
+                - generic [ref=f18e50]: ⌂
+                - generic [ref=f18e51]: House or flat
+              - button "▦ Office or business" [ref=f18e52] [cursor=pointer]:
+                - generic [ref=f18e53]: ▦
+                - generic [ref=f18e54]: Office or business
+              - button "▤ Storage" [ref=f18e55] [cursor=pointer]:
+                - generic [ref=f18e56]: ▤
+                - generic [ref=f18e57]: Storage
+              - button "↗ Man & van" [ref=f18e58] [cursor=pointer]:
+                - generic [ref=f18e59]: ↗
+                - generic [ref=f18e60]: Man & van
+              - button "◎ European move" [ref=f18e61] [cursor=pointer]:
+                - generic [ref=f18e62]: ◎
+                - generic [ref=f18e63]: European move
+          - alert [ref=f18e64]
+          - button "Continue →" [ref=f18e66] [cursor=pointer]
+        - generic [ref=f18e67]:
+          - generic [ref=f18e68]:
+            - generic [ref=f18e69]: ROUTE PREVIEW · NOT LIVE TRACKING
+            - button "Reset map view" [ref=f18e70] [cursor=pointer]: ↻
+          - generic [ref=f18e71]:
+            - text: YOUR JOURNEY
+            - paragraph [ref=f18e72]: Enter your collection and delivery locations to request a route.
+            - generic [ref=f18e73]: Map tiles and route data use public demo services and can be unavailable. No depot or live vehicle position is shown.
+            - button "Preview journey" [disabled] [ref=f18e74]
+            - button "Show map" [ref=f18e75]
+    - generic [ref=f18e76]:
+      - generic [ref=f18e77]:
+        - generic [ref=f18e78]:
+          - text: SUPPORT FOR EACH PART OF THE MOVE
+          - heading "Everything you need to move, considered." [level=2] [ref=f18e79]: Everything you needto move, considered.
+        - link "See all services ↗" [ref=f18e80] [cursor=pointer]:
+          - /url: /services
+      - generic [ref=f18e81]:
+        - link "⌂ 01 / SERVICE House removals Home and flat moves planned around your property, contents and access. Explore service ↗" [ref=f18e82] [cursor=pointer]:
+          - /url: /services/house-removals
+          - generic [ref=f18e83]: ⌂
+          - generic [ref=f18e84]: 01 / SERVICE
+          - heading "House removals" [level=3] [ref=f18e85]
+          - paragraph [ref=f18e86]: Home and flat moves planned around your property, contents and access.
+          - generic [ref=f18e87]:
+            - text: Explore service
+            - generic [ref=f18e88]: ↗
+        - link "▦ 02 / SERVICE Office & business Relocations shaped around equipment, loading and working hours. Explore service ↗" [ref=f18e89] [cursor=pointer]:
+          - /url: /business-moves
+          - generic [ref=f18e90]: ▦
+          - generic [ref=f18e91]: 02 / SERVICE
+          - heading "Office & business" [level=3] [ref=f18e92]
+          - paragraph [ref=f18e93]: Relocations shaped around equipment, loading and working hours.
+          - generic [ref=f18e94]:
+            - text: Explore service
+            - generic [ref=f18e95]: ↗
+        - link "▤ 03 / SERVICE Storage Short and long-term storage, with collection and later delivery discussed. Explore service ↗" [ref=f18e96] [cursor=pointer]:
+          - /url: /storage
+          - generic [ref=f18e97]: ▤
+          - generic [ref=f18e98]: 03 / SERVICE
+          - heading "Storage" [level=3] [ref=f18e99]
+          - paragraph [ref=f18e100]: Short and long-term storage, with collection and later delivery discussed.
+          - generic [ref=f18e101]:
+            - text: Explore service
+            - generic [ref=f18e102]: ↗
+        - link "□ 04 / SERVICE Packing Packing support and materials included in a clear moving plan. Explore service ↗" [ref=f18e103] [cursor=pointer]:
+          - /url: /services/packing
+          - generic [ref=f18e104]: □
+          - generic [ref=f18e105]: 04 / SERVICE
+          - heading "Packing" [level=3] [ref=f18e106]
+          - paragraph [ref=f18e107]: Packing support and materials included in a clear moving plan.
+          - generic [ref=f18e108]:
+            - text: Explore service
+            - generic [ref=f18e109]: ↗
+        - link "✳ 05 / SERVICE Specialist items Tell us about antiques, fine art, pianos and fragile belongings. Explore service ↗" [ref=f18e110] [cursor=pointer]:
+          - /url: /services/specialist-moving
+          - generic [ref=f18e111]: ✳
+          - generic [ref=f18e112]: 05 / SERVICE
+          - heading "Specialist items" [level=3] [ref=f18e113]
+          - paragraph [ref=f18e114]: Tell us about antiques, fine art, pianos and fragile belongings.
+          - generic [ref=f18e115]:
+            - text: Explore service
+            - generic [ref=f18e116]: ↗
+        - link "↗ 06 / SERVICE European moves Share your destination and timing for a personalised enquiry. Explore service ↗" [ref=f18e117] [cursor=pointer]:
+          - /url: /services/european-removals
+          - generic [ref=f18e118]: ↗
+          - generic [ref=f18e119]: 06 / SERVICE
+          - heading "European moves" [level=3] [ref=f18e120]
+          - paragraph [ref=f18e121]: Share your destination and timing for a personalised enquiry.
+          - generic [ref=f18e122]:
+            - text: Explore service
+            - generic [ref=f18e123]: ↗
+    - region "Explore moving services" [ref=f18e124]:
+      - article [ref=f18e125]:
+        - generic [ref=f18e126]:
+          - text: MOVING HOME?
+          - heading "Let’s make your next move simple." [level=2] [ref=f18e127]: Let’s make yournext move simple.
+          - paragraph [ref=f18e128]: Thoughtful planning for your home, your belongings and the next chapter.
+          - link "Plan a home move ↗" [ref=f18e129] [cursor=pointer]:
+            - /url: /get-a-quote?service=home
+            - text: Plan a home move
+            - generic [ref=f18e130]: ↗
+      - generic [ref=f18e131]:
+        - article [ref=f18e132]:
+          - generic [ref=f18e133]:
+            - text: BUSINESS MOVES
+            - heading "Keep your business moving." [level=2] [ref=f18e134]: Keep yourbusiness moving.
+            - paragraph [ref=f18e135]: Plan your relocation around your people, equipment and access.
+            - link "Plan a business move ↗" [ref=f18e136] [cursor=pointer]:
+              - /url: /get-a-quote?service=office
+              - text: Plan a business move
+              - generic [ref=f18e137]: ↗
+        - article [ref=f18e138]:
+          - generic [ref=f18e139]:
+            - text: EUROPEAN MOVES
+            - heading "Further afield? Let’s make a plan." [level=2] [ref=f18e140]: Further afield?Let’s make a plan.
+            - paragraph [ref=f18e141]: Tell us your destination, timings and the details that matter.
+            - link "Explore European moves ↗" [ref=f18e142] [cursor=pointer]:
+              - /url: /get-a-quote?service=europe
+              - text: Explore European moves
+              - generic [ref=f18e143]: ↗
+      - paragraph [ref=f18e144]: Illustrative imagery
+    - generic [ref=f18e145]:
+      - generic [ref=f18e146]:
+        - generic [ref=f18e147]: THE JOURNEY, MADE CLEAR
+        - generic [ref=f18e148]: A move is a series of well-planned moments.
+      - generic [ref=f18e149]:
+        - article [ref=f18e150]:
+          - text: "01"
+          - generic [ref=f18e151]: ↗
+          - heading "You plan" [level=3] [ref=f18e152]
+          - paragraph [ref=f18e153]: Tell us the service, addresses, date and details that matter.
+        - article [ref=f18e154]:
+          - text: "02"
+          - generic [ref=f18e155]: ⌂
+          - heading "We collect" [level=3] [ref=f18e156]
+          - paragraph [ref=f18e157]: Collection is arranged around the agreed access and scope.
+        - article [ref=f18e158]:
+          - text: "03"
+          - generic [ref=f18e159]: ▤
+          - heading "We move or store" [level=3] [ref=f18e160]
+          - paragraph [ref=f18e161]: Moving and storage requirements are confirmed in your plan.
+        - article [ref=f18e162]:
+          - text: "04"
+          - generic [ref=f18e163]: ⌖
+          - heading "We deliver" [level=3] [ref=f18e164]
+          - paragraph [ref=f18e165]: Delivery is planned around the agreed date and destination.
+      - generic [ref=f18e166]:
+        - generic [ref=f18e168]: YOU BOOK
+        - generic [ref=f18e169]: WE COLLECT
+        - generic [ref=f18e170]: WE STORE
+        - generic [ref=f18e171]: WE DELIVER
+    - generic [ref=f18e172]:
+      - generic [ref=f18e173]:
+        - generic [ref=f18e174]: B
+        - generic [ref=f18e175]: A PROFESSIONAL STANDARD
+        - generic [ref=f18e176]: British Associationof Removers member
+        - generic [ref=f18e177]: Membership stated from March 2026 on the company website.
+      - generic [ref=f18e178]:
+        - text: CLEAR EXPECTATIONS, FROM THE START
+        - heading "A plan built around the real details." [level=2] [ref=f18e179]: A plan built aroundthe real details.
+        - paragraph [ref=f18e180]: Property access, parking, packing, storage and specialist belongings can all shape a move. Share what you know, and confirm the agreed service scope, pricing and insurance terms directly before booking.
+        - link "About Removals and Storage X ↗" [ref=f18e181] [cursor=pointer]:
+          - /url: /about
+    - generic [ref=f18e182]:
+      - generic [ref=f18e183]:
+        - text: READY WHEN YOU ARE
+        - heading "Let’s make the next step feel simpler." [level=2] [ref=f18e184]: Let’s make the nextstep feel simpler.
+      - link "Start your moving plan ↗" [ref=f18e185] [cursor=pointer]:
+        - /url: /get-a-quote
+        - text: Start your moving plan
+        - generic [ref=f18e186]: ↗
+  - contentinfo [ref=f18e187]:
+    - generic [ref=f18e188]:
+      - generic [ref=f18e189]:
+        - link "X REMOVALS & STORAGE X" [ref=f18e190] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f18e191]: X
+          - generic [ref=f18e192]: REMOVALS &STORAGE X
+        - paragraph [ref=f18e193]: Thoughtful moves. Clearly planned.
+      - generic [ref=f18e194]:
+        - generic [ref=f18e195]: EXPLORE
+        - link "Our services" [ref=f18e196] [cursor=pointer]:
+          - /url: /services
+        - link "Storage" [ref=f18e197] [cursor=pointer]:
+          - /url: /storage
+        - link "Business moves" [ref=f18e198] [cursor=pointer]:
+          - /url: /business-moves
+        - link "About us" [ref=f18e199] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=f18e200]:
+        - generic [ref=f18e201]: GET IN TOUCH
+        - link "0208 3517 101" [ref=f18e202] [cursor=pointer]:
+          - /url: tel:+442083517101
+        - link "info@removalsandstoragex.com" [ref=f18e203] [cursor=pointer]:
+          - /url: mailto:info@removalsandstoragex.com
+        - link "WhatsApp · 07555 081 555" [ref=f18e204] [cursor=pointer]:
+          - /url: https://wa.me/447555081555
+      - generic [ref=f18e205]:
+        - text: WHEREVER YOU’RE HEADED
+        - link "Let’s plan the move ↗" [ref=f18e206] [cursor=pointer]:
+          - /url: /get-a-quote
+    - generic [ref=f18e207]:
+      - generic [ref=f18e208]: © 2026 Removals and Storage X
+      - generic [ref=f18e209]: London · England
+      - generic [ref=f18e210]: Quotes are personalised and subject to confirmation.
+  - link "Contact Removals and Storage X" [ref=f18e211] [cursor=pointer]:
+    - /url: /contact
+    - generic [ref=f18e212]: "?"
+    - generic [ref=f18e213]: Need a hand?

@@ -1,0 +1,8 @@
+[   59798ms] TypeError: Cannot read properties of null (reading 'getElement')
+    at animate (http://localhost:4174/app.js?v=20261108-13:48:646)
+[   60003ms] TypeError: Cannot read properties of undefined (reading '_leaflet_pos')
+    at getPosition (https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.esm.js:2557:12)
+    at NewClass._getMapPanePos (https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.esm.js:4595:10)
+    at NewClass._getNewPixelOrigin (https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.esm.js:4612:67)
+    at NewClass._move (https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.esm.js:4331:28)
+    at NewClass._onZoomTransitionEnd (https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.esm.js:4833:8)

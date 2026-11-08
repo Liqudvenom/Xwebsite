@@ -1,0 +1,159 @@
+- generic [active] [ref=f33e1]:
+  - link "Skip to content" [ref=f33e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f33e3]:
+    - generic [ref=f33e4]: Carefully planned removals & storage in London
+    - generic [ref=f33e5]:
+      - text: Call the team
+      - link "0208 3517 101 ↗" [ref=f33e6] [cursor=pointer]:
+        - /url: tel:+442083517101
+  - banner [ref=f33e7]:
+    - link "Removals and Storage X home" [ref=f33e8] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f33e9]: X
+      - generic [ref=f33e10]: REMOVALS &STORAGE X
+    - navigation [ref=f33e11]:
+      - link "Home" [ref=f33e12] [cursor=pointer]:
+        - /url: /
+      - group [ref=f33e13]:
+        - generic "Storage" [ref=f33e14] [cursor=pointer]
+      - group [ref=f33e17]:
+        - generic "Locations" [ref=f33e18] [cursor=pointer]
+      - group [ref=f33e21]:
+        - generic "Office" [ref=f33e22] [cursor=pointer]
+      - group [ref=f33e25]:
+        - generic "Residential" [ref=f33e26] [cursor=pointer]
+      - link "Pricing" [ref=f33e29] [cursor=pointer]:
+        - /url: /pricing
+      - link "About" [ref=f33e30] [cursor=pointer]:
+        - /url: /about
+      - group [ref=f33e31]:
+        - generic "Contact Us" [ref=f33e32] [cursor=pointer]
+      - link "Get a quote ↗" [ref=f33e35] [cursor=pointer]:
+        - /url: /get-a-quote
+  - main [ref=f33e36]:
+    - generic [ref=f33e37]:
+      - generic [ref=f33e38]:
+        - text: STORAGE, WITH THE NEXT STEP IN MIND
+        - heading "Between one address and the next." [level=2] [ref=f33e39]: Between one addressand the next.
+      - generic [ref=f33e40]:
+        - paragraph [ref=f33e41]: Dates may change or a new space may not be ready. Share the items, expected storage period and any return-delivery date, even if that date is still to be confirmed.
+        - list [ref=f33e42]:
+          - listitem [ref=f33e43]: Short- and long-term requirements
+          - listitem [ref=f33e44]: Household and business contents
+          - listitem [ref=f33e45]: Collection, storage and later delivery
+          - listitem [ref=f33e46]: Access and specialist handling details
+        - link "Plan a storage enquiry ↗" [ref=f33e47] [cursor=pointer]:
+          - /url: /get-a-quote?service=storage
+    - generic [ref=f33e49]:
+      - text: SPACE BETWEEN CHAPTERS
+      - heading "Storage that fits your next step." [level=1] [ref=f33e50]
+      - paragraph [ref=f33e51]: When collection and delivery dates do not line up, tell us what needs storing and when you may need it back.
+      - link "Plan your move ↗" [ref=f33e52] [cursor=pointer]:
+        - /url: /get-a-quote?service=storage
+        - text: Plan your move
+        - generic [ref=f33e53]: ↗
+    - generic [ref=f33e55]:
+      - generic [ref=f33e56]:
+        - text: STORAGE, WITH THE NEXT STEP IN MIND
+        - heading "Between one address and the next." [level=2] [ref=f33e57]: Between one addressand the next.
+      - generic [ref=f33e58]:
+        - paragraph [ref=f33e59]: Dates may change or a new space may not be ready. Share the items, expected storage period and any return-delivery date, even if that date is still to be confirmed.
+        - list [ref=f33e60]:
+          - listitem [ref=f33e61]: Short- and long-term requirements
+          - listitem [ref=f33e62]: Household and business contents
+          - listitem [ref=f33e63]: Collection, storage and later delivery
+          - listitem [ref=f33e64]: Access and specialist handling details
+        - link "Plan a storage enquiry ↗" [ref=f33e65] [cursor=pointer]:
+          - /url: /get-a-quote?service=storage
+    - generic [ref=f33e66]:
+      - generic [ref=f33e67]:
+        - generic [ref=f33e68]: THE JOURNEY, MADE CLEAR
+        - generic [ref=f33e69]: A move is a series of well-planned moments.
+      - generic [ref=f33e70]:
+        - article [ref=f33e71]:
+          - text: "01"
+          - generic [ref=f33e72]: ↗
+          - heading "You plan" [level=3] [ref=f33e73]
+          - paragraph [ref=f33e74]: Tell us the service, addresses, date and details that matter.
+        - article [ref=f33e75]:
+          - text: "02"
+          - generic [ref=f33e76]: ⌂
+          - heading "We collect" [level=3] [ref=f33e77]
+          - paragraph [ref=f33e78]: Collection is arranged around the agreed access and scope.
+        - article [ref=f33e79]:
+          - text: "03"
+          - generic [ref=f33e80]: ▤
+          - heading "We move or store" [level=3] [ref=f33e81]
+          - paragraph [ref=f33e82]: Moving and storage requirements are confirmed in your plan.
+        - article [ref=f33e83]:
+          - text: "04"
+          - generic [ref=f33e84]: ⌖
+          - heading "We deliver" [level=3] [ref=f33e85]
+          - paragraph [ref=f33e86]: Delivery is planned around the agreed date and destination.
+      - generic [ref=f33e87]:
+        - generic [ref=f33e89]: YOU BOOK
+        - generic [ref=f33e90]: WE COLLECT
+        - generic [ref=f33e91]: WE STORE
+        - generic [ref=f33e92]: WE DELIVER
+    - generic [ref=f33e93]:
+      - generic [ref=f33e94]:
+        - generic [ref=f33e95]: B
+        - generic [ref=f33e96]: A PROFESSIONAL STANDARD
+        - generic [ref=f33e97]: British Associationof Removers member
+        - generic [ref=f33e98]: Membership stated from March 2026 on the company website.
+      - generic [ref=f33e99]:
+        - text: CLEAR EXPECTATIONS, FROM THE START
+        - heading "A plan built around the real details." [level=2] [ref=f33e100]: A plan built aroundthe real details.
+        - paragraph [ref=f33e101]: Property access, parking, packing, storage and specialist belongings can all shape a move. Share what you know, and confirm the agreed service scope, pricing and insurance terms directly before booking.
+        - link "About Removals and Storage X ↗" [ref=f33e102] [cursor=pointer]:
+          - /url: /about
+    - generic [ref=f33e103]:
+      - generic [ref=f33e104]:
+        - text: READY WHEN YOU ARE
+        - heading "Let’s make the next step feel simpler." [level=2] [ref=f33e105]: Let’s make the nextstep feel simpler.
+      - link "Start your moving plan ↗" [ref=f33e106] [cursor=pointer]:
+        - /url: /get-a-quote
+        - text: Start your moving plan
+        - generic [ref=f33e107]: ↗
+  - contentinfo [ref=f33e108]:
+    - generic [ref=f33e109]:
+      - generic [ref=f33e110]:
+        - link "X REMOVALS & STORAGE X" [ref=f33e111] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f33e112]: X
+          - generic [ref=f33e113]: REMOVALS &STORAGE X
+        - paragraph [ref=f33e114]: Thoughtful moves. Clearly planned.
+      - generic [ref=f33e115]:
+        - generic [ref=f33e116]: EXPLORE
+        - link "Our services" [ref=f33e117] [cursor=pointer]:
+          - /url: /services
+        - link "Storage" [ref=f33e118] [cursor=pointer]:
+          - /url: /storage
+        - link "Business moves" [ref=f33e119] [cursor=pointer]:
+          - /url: /business-moves
+        - link "Pricing" [ref=f33e120] [cursor=pointer]:
+          - /url: /pricing
+        - link "About us" [ref=f33e121] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=f33e122]:
+        - generic [ref=f33e123]: GET IN TOUCH
+        - link "0208 3517 101" [ref=f33e124] [cursor=pointer]:
+          - /url: tel:+442083517101
+        - link "info@removalsandstoragex.com" [ref=f33e125] [cursor=pointer]:
+          - /url: mailto:info@removalsandstoragex.com
+        - link "WhatsApp · 07555 081 555" [ref=f33e126] [cursor=pointer]:
+          - /url: https://wa.me/447555081555
+      - generic [ref=f33e127]:
+        - text: WHEREVER YOU’RE HEADED
+        - link "Let’s plan the move ↗" [ref=f33e128] [cursor=pointer]:
+          - /url: /get-a-quote
+    - generic [ref=f33e129]:
+      - generic [ref=f33e130]: © 2026 Removals and Storage X
+      - generic [ref=f33e131]: London · England
+      - generic [ref=f33e132]: Quotes are personalised and subject to confirmation.
+      - generic [ref=f33e133]: Photography is illustrative.
+  - link "Contact Removals and Storage X" [ref=f33e134] [cursor=pointer]:
+    - /url: /contact
+    - generic [ref=f33e135]: "?"
+    - generic [ref=f33e136]: Need a hand?

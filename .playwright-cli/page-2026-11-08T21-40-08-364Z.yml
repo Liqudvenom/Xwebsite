@@ -1,0 +1,238 @@
+- generic [active] [ref=f30e1]:
+  - link "Skip to content" [ref=f30e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f30e3]:
+    - generic [ref=f30e4]: Carefully planned removals & storage in London
+    - generic [ref=f30e5]:
+      - text: Call the team
+      - link "0208 3517 101 ↗" [ref=f30e6] [cursor=pointer]:
+        - /url: tel:+442083517101
+  - banner [ref=f30e7]:
+    - link "Removals and Storage X home" [ref=f30e8] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f30e9]: X
+      - generic [ref=f30e10]: REMOVALS &STORAGE X
+    - navigation [ref=f30e11]:
+      - link "Home" [ref=f30e12] [cursor=pointer]:
+        - /url: /
+      - group [ref=f30e13]:
+        - generic "Storage" [ref=f30e14] [cursor=pointer]
+      - group [ref=f30e17]:
+        - generic "Locations" [ref=f30e18] [cursor=pointer]
+      - group [ref=f30e21]:
+        - generic "Office" [ref=f30e22] [cursor=pointer]
+      - group [ref=f30e25]:
+        - generic "Residential" [ref=f30e26] [cursor=pointer]
+      - link "Pricing" [ref=f30e29] [cursor=pointer]:
+        - /url: /pricing
+      - link "About" [ref=f30e30] [cursor=pointer]:
+        - /url: /about
+      - group [ref=f30e31]:
+        - generic "Contact Us" [ref=f30e32] [cursor=pointer]
+      - link "Get a quote ↗" [ref=f30e35] [cursor=pointer]:
+        - /url: /get-a-quote
+  - main [ref=f30e36]:
+    - generic [ref=f30e37]:
+      - generic [ref=f30e38]:
+        - text: PERSONALISED PRICING · NO GUESSWORK
+        - heading [level=1] [ref=f30e39]:
+          - text: A clearer quotefor
+          - emphasis [ref=f30e40]: your move.
+        - paragraph [ref=f30e41]: Homes, businesses and timelines are different. Share the details that matter and request a personalised removals or storage quote.
+        - generic [ref=f30e42]:
+          - link "Get a personalised quote ↗" [ref=f30e43] [cursor=pointer]:
+            - /url: /get-a-quote
+            - text: Get a personalised quote
+            - generic [ref=f30e44]: ↗
+          - link "Explore services ↓" [ref=f30e45] [cursor=pointer]:
+            - /url: "#services-pricing"
+        - generic [ref=f30e46]:
+          - generic [ref=f30e47]: ✓ Clear scope
+          - generic [ref=f30e48]: ✓ Planned around your needs
+          - generic [ref=f30e49]: ✓ Options to discuss
+      - img "Illustrative moving boxes in a home" [ref=f30e50]:
+        - generic [ref=f30e51]: YOUR MOVE · YOUR PLAN
+    - generic [ref=f30e52]:
+      - generic [ref=f30e53]:
+        - generic [ref=f30e54]:
+          - text: SERVICES & QUOTATIONS
+          - heading "Find the right starting point." [level=2] [ref=f30e55]
+        - paragraph [ref=f30e56]: Choose the closest match. The final services and price will be confirmed in your written quote.
+      - generic [ref=f30e57]:
+        - article [ref=f30e58]:
+          - generic [ref=f30e59]: ⌂
+          - generic [ref=f30e60]: FOR YOUR HOME
+          - heading "House & flat moves" [level=3] [ref=f30e61]
+          - paragraph [ref=f30e62]: For household moves of different sizes, with the practical details planned around your properties.
+          - generic [ref=f30e63]:
+            - text: Personalised quote
+            - generic [ref=f30e64]: Subject to confirmation
+          - list [ref=f30e65]:
+            - listitem [ref=f30e66]: ✓ Furniture and household contents
+            - listitem [ref=f30e67]: ✓ Property access and parking
+            - listitem [ref=f30e68]: ✓ Packing and dismantling on request
+            - listitem [ref=f30e69]: ✓ Storage between addresses on request
+          - link "Plan this move ↗" [ref=f30e70] [cursor=pointer]:
+            - /url: /get-a-quote?service=home
+            - text: Plan this move
+            - generic [ref=f30e71]: ↗
+        - article [ref=f30e72]:
+          - generic [ref=f30e73]: ▦
+          - generic [ref=f30e74]: FOR YOUR BUSINESS
+          - heading "Office & business" [level=3] [ref=f30e75]
+          - paragraph [ref=f30e76]: For workplace relocations shaped around your equipment, premises and access requirements.
+          - generic [ref=f30e77]:
+            - text: Personalised quote
+            - generic [ref=f30e78]: Subject to confirmation
+          - list [ref=f30e79]:
+            - listitem [ref=f30e80]: ✓ Office furniture and equipment
+            - listitem [ref=f30e81]: ✓ Loading and access arrangements
+            - listitem [ref=f30e82]: ✓ IT and specialist requirements
+            - listitem [ref=f30e83]: ✓ Commercial storage on request
+          - link "Plan this move ↗" [ref=f30e84] [cursor=pointer]:
+            - /url: /get-a-quote?service=office
+            - text: Plan this move
+            - generic [ref=f30e85]: ↗
+        - article [ref=f30e86]:
+          - generic [ref=f30e87]: ▤
+          - generic [ref=f30e88]: FOR EXTRA SPACE
+          - heading "Storage & collection" [level=3] [ref=f30e89]
+          - paragraph [ref=f30e90]: For belongings that need a place to stay before a later delivery or collection.
+          - generic [ref=f30e91]:
+            - text: Personalised quote
+            - generic [ref=f30e92]: Subject to confirmation
+          - list [ref=f30e93]:
+            - listitem [ref=f30e94]: ✓ Household or business contents
+            - listitem [ref=f30e95]: ✓ Short or long term requirements
+            - listitem [ref=f30e96]: ✓ Collection and later delivery
+            - listitem [ref=f30e97]: ✓ Duration and access to be agreed
+          - link "Plan this move ↗" [ref=f30e98] [cursor=pointer]:
+            - /url: /get-a-quote?service=storage
+            - text: Plan this move
+            - generic [ref=f30e99]: ↗
+        - article [ref=f30e100]:
+          - generic [ref=f30e101]: ↗
+          - generic [ref=f30e102]: FOR SMALLER LOADS
+          - heading "Man & van" [level=3] [ref=f30e103]
+          - paragraph [ref=f30e104]: For smaller transport requirements where the contents and access can be discussed in advance.
+          - generic [ref=f30e105]:
+            - text: Personalised quote
+            - generic [ref=f30e106]: Subject to confirmation
+          - list [ref=f30e107]:
+            - listitem [ref=f30e108]: ✓ A few items or furniture
+            - listitem [ref=f30e109]: ✓ Collection and delivery details
+            - listitem [ref=f30e110]: ✓ Parking and loading access
+            - listitem [ref=f30e111]: ✓ Handling requirements on request
+          - link "Plan this move ↗" [ref=f30e112] [cursor=pointer]:
+            - /url: /get-a-quote?service=van
+            - text: Plan this move
+            - generic [ref=f30e113]: ↗
+        - article [ref=f30e114]:
+          - generic [ref=f30e115]: ◎
+          - generic [ref=f30e116]: ACROSS BORDERS
+          - heading "European moving" [level=3] [ref=f30e117]
+          - paragraph [ref=f30e118]: For moves involving a European destination, with the route and timing agreed individually.
+          - generic [ref=f30e119]:
+            - text: Personalised quote
+            - generic [ref=f30e120]: Subject to confirmation
+          - list [ref=f30e121]:
+            - listitem [ref=f30e122]: ✓ UK and European addresses
+            - listitem [ref=f30e123]: ✓ Collection and delivery timing
+            - listitem [ref=f30e124]: ✓ Packing and storage on request
+            - listitem [ref=f30e125]: ✓ Border requirements to be confirmed
+          - link "Plan this move ↗" [ref=f30e126] [cursor=pointer]:
+            - /url: /get-a-quote?service=europe
+            - text: Plan this move
+            - generic [ref=f30e127]: ↗
+      - paragraph [ref=f30e128]: The items listed are details to discuss, not fixed packages or guaranteed inclusions. Your quote will confirm the agreed scope.
+    - generic [ref=f30e129]:
+      - generic [ref=f30e130]:
+        - generic [ref=f30e131]:
+          - text: UNDERSTANDING YOUR QUOTE
+          - heading "What shapes the cost?" [level=2] [ref=f30e132]
+        - paragraph [ref=f30e133]: A little detail upfront helps the team understand the work and prepare a quote that reflects it.
+      - generic [ref=f30e134]:
+        - article [ref=f30e135]:
+          - text: "01"
+          - heading "Contents & size" [level=3] [ref=f30e136]
+          - paragraph [ref=f30e137]: The amount of furniture, boxes and equipment, including heavy or fragile items.
+        - article [ref=f30e138]:
+          - text: "02"
+          - heading "Access & parking" [level=3] [ref=f30e139]
+          - paragraph [ref=f30e140]: Floors, lifts, stairs, loading bays, parking restrictions and distance to the vehicle.
+        - article [ref=f30e141]:
+          - text: "03"
+          - heading "Distance & timing" [level=3] [ref=f30e142]
+          - paragraph [ref=f30e143]: Collection and delivery locations, your preferred dates and any scheduling requirements.
+        - article [ref=f30e144]:
+          - text: "04"
+          - heading "Additional help" [level=3] [ref=f30e145]
+          - paragraph [ref=f30e146]: Packing, materials, furniture assembly, storage duration and specialist handling.
+    - generic [ref=f30e147]:
+      - generic [ref=f30e148]:
+        - text: GOOD TO KNOW
+        - heading "Questions about your quote?" [level=2] [ref=f30e149]
+        - paragraph [ref=f30e150]: For a question specific to your move, the team can talk through the details.
+        - link "Contact the team ↗" [ref=f30e151] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=f30e152]:
+        - group [ref=f30e153]:
+          - generic "How much will my move cost?" [ref=f30e154] [cursor=pointer]
+        - group [ref=f30e155]:
+          - generic "What is included in my quote?" [ref=f30e156] [cursor=pointer]
+        - group [ref=f30e157]:
+          - generic "Can packing or storage be added?" [ref=f30e158] [cursor=pointer]
+        - group [ref=f30e159]:
+          - generic "Is the quote a fixed price?" [ref=f30e160] [cursor=pointer]
+        - group [ref=f30e161]:
+          - generic "What about insurance, payment or cancellation?" [ref=f30e162] [cursor=pointer]
+    - generic [ref=f30e163]:
+      - generic [ref=f30e164]:
+        - text: READY WHEN YOU ARE
+        - heading "Let’s put a plan together." [level=2] [ref=f30e165]
+        - paragraph [ref=f30e166]: Tell us what, where and when. We’ll use the details to understand your requirements.
+      - link "Request my quote ↗" [ref=f30e167] [cursor=pointer]:
+        - /url: /get-a-quote
+        - text: Request my quote
+        - generic [ref=f30e168]: ↗
+  - contentinfo [ref=f30e169]:
+    - generic [ref=f30e170]:
+      - generic [ref=f30e171]:
+        - link "X REMOVALS & STORAGE X" [ref=f30e172] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f30e173]: X
+          - generic [ref=f30e174]: REMOVALS &STORAGE X
+        - paragraph [ref=f30e175]: Thoughtful moves. Clearly planned.
+      - generic [ref=f30e176]:
+        - generic [ref=f30e177]: EXPLORE
+        - link "Our services" [ref=f30e178] [cursor=pointer]:
+          - /url: /services
+        - link "Storage" [ref=f30e179] [cursor=pointer]:
+          - /url: /storage
+        - link "Business moves" [ref=f30e180] [cursor=pointer]:
+          - /url: /business-moves
+        - link "Pricing" [ref=f30e181] [cursor=pointer]:
+          - /url: /pricing
+        - link "About us" [ref=f30e182] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=f30e183]:
+        - generic [ref=f30e184]: GET IN TOUCH
+        - link "0208 3517 101" [ref=f30e185] [cursor=pointer]:
+          - /url: tel:+442083517101
+        - link "info@removalsandstoragex.com" [ref=f30e186] [cursor=pointer]:
+          - /url: mailto:info@removalsandstoragex.com
+        - link "WhatsApp · 07555 081 555" [ref=f30e187] [cursor=pointer]:
+          - /url: https://wa.me/447555081555
+      - generic [ref=f30e188]:
+        - text: WHEREVER YOU’RE HEADED
+        - link "Let’s plan the move ↗" [ref=f30e189] [cursor=pointer]:
+          - /url: /get-a-quote
+    - generic [ref=f30e190]:
+      - generic [ref=f30e191]: © 2026 Removals and Storage X
+      - generic [ref=f30e192]: London · England
+      - generic [ref=f30e193]: Quotes are personalised and subject to confirmation.
+      - generic [ref=f30e194]: Photography is illustrative.
+  - link "Contact Removals and Storage X" [ref=f30e195] [cursor=pointer]:
+    - /url: /contact
+    - generic [ref=f30e196]: "?"
+    - generic [ref=f30e197]: Need a hand?
