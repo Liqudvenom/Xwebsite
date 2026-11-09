@@ -1,0 +1,236 @@
+- generic [active] [ref=f45e1]:
+  - link "Skip to content" [ref=f45e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f45e3]:
+    - generic [ref=f45e4]: Carefully planned removals & storage in London
+    - generic [ref=f45e5]:
+      - text: Call the team
+      - link "0208 3517 101 ↗" [ref=f45e6] [cursor=pointer]:
+        - /url: tel:+442083517101
+  - banner [ref=f45e7]:
+    - link "Removals and Storage X home" [ref=f45e8] [cursor=pointer]:
+      - /url: /Xwebsite/
+      - generic [ref=f45e9]: X
+      - generic [ref=f45e10]: REMOVALS &STORAGE X
+    - button "Open navigation" [ref=f45e11]
+  - main [ref=f45e14]:
+    - generic [ref=f45e15]:
+      - generic [ref=f45e16]:
+        - generic [ref=f45e17]: CUSTOMER SUPPORT & CONTACT
+        - heading "We’re here to help." [level=1] [ref=f45e18]: We’re hereto help.
+        - paragraph [ref=f45e19]: Questions about your move or storage? Tell us what you need or choose the best way to reach our team.
+        - generic [ref=f45e20]:
+          - generic [ref=f45e21]: ✆ Friendly support
+          - generic [ref=f45e22]: ▦ Thoughtful planning
+          - generic [ref=f45e23]: ◇ Clear next steps
+      - img "Illustrative image of moving boxes being packed" [ref=f45e24]:
+        - generic [ref=f45e25]: HERE FOR EVERY STEP
+    - generic [ref=f45e26]:
+      - article [ref=f45e27]:
+        - generic [ref=f45e28]:
+          - generic [ref=f45e29]:
+            - text: LET’S TALK
+            - heading "Contact us" [level=2] [ref=f45e30]
+            - paragraph [ref=f45e31]: Choose the way that works best for you.
+          - generic [aria-hidden] [ref=f45e32]: ✳
+        - generic [ref=f45e33]:
+          - link "☎ Call us 0208 3517 101 Speak to the team" [ref=f45e34] [cursor=pointer]:
+            - /url: tel:+442083517101
+            - generic [ref=f45e35]: ☎
+            - generic [ref=f45e36]: Call us
+            - strong [ref=f45e37]: 0208 3517 101
+            - generic [ref=f45e38]: Speak to the team
+          - link "✉ Email us info@removalsandstoragex.com Send your questions" [ref=f45e39] [cursor=pointer]:
+            - /url: mailto:info@removalsandstoragex.com
+            - generic [ref=f45e40]: ✉
+            - generic [ref=f45e41]: Email us
+            - strong [ref=f45e42]: info@removalsandstoragex.com
+            - generic [ref=f45e43]: Send your questions
+          - link "◌ WhatsApp 07555 081 555 Message the team" [ref=f45e44] [cursor=pointer]:
+            - /url: https://wa.me/447555081555
+            - generic [ref=f45e45]: ◌
+            - generic [ref=f45e46]: WhatsApp
+            - strong [ref=f45e47]: 07555 081 555
+            - generic [ref=f45e48]: Message the team
+        - link "Need a detailed moving quote? Start your plan ↗" [ref=f45e49] [cursor=pointer]:
+          - /url: /Xwebsite/get-a-quote
+      - article [ref=f45e50]:
+        - text: SEND AN ENQUIRY
+        - heading "How can we help?" [level=2] [ref=f45e51]
+        - paragraph [ref=f45e52]: Share a few details and your preferred way to be contacted.
+        - generic [ref=f45e53]:
+          - generic [ref=f45e54]:
+            - generic [ref=f45e55]:
+              - text: Full name *
+              - textbox "Full name *" [ref=f45e56]
+            - generic [ref=f45e57]:
+              - text: Phone number *
+              - textbox "Phone number *" [ref=f45e58]
+            - generic [ref=f45e59]:
+              - text: Email address *
+              - textbox "Email address *" [ref=f45e60]
+            - generic [ref=f45e61]:
+              - text: Enquiry type
+              - combobox "Enquiry type" [ref=f45e62]:
+                - option "General enquiry" [selected]
+                - option "Home move"
+                - option "Business move"
+                - option "Storage"
+                - option "European move"
+            - generic [ref=f45e63]:
+              - text: Preferred contact
+              - combobox "Preferred contact" [ref=f45e64]:
+                - option "Email" [selected]
+                - option "Phone"
+                - option "WhatsApp"
+            - generic [ref=f45e65]:
+              - text: How can we help?
+              - textbox "How can we help?" [ref=f45e66]:
+                - /placeholder: Tell us a little about your move or question
+          - generic [ref=f45e67]:
+            - checkbox "I agree that these details can be used to respond to this enquiry. *" [ref=f45e68]
+            - text: I agree that these details can be used to respond to this enquiry.
+            - generic [ref=f45e69]: "*"
+          - generic [ref=f45e70]:
+            - checkbox "I would like to receive optional marketing updates." [ref=f45e71]
+            - text: I would like to receive optional marketing updates.
+          - paragraph [ref=f45e72]: "Prototype: enquiries are saved locally and are not yet sent to the company. For a response, please call, email or use WhatsApp."
+          - status
+          - button "Save enquiry locally ↗" [ref=f45e73] [cursor=pointer]
+    - generic [ref=f45e74]:
+      - generic [ref=f45e75]:
+        - generic [ref=f45e76]:
+          - text: HERE TO HELP
+          - heading "Frequently asked questions." [level=2] [ref=f45e77]
+        - paragraph [ref=f45e78]: Practical answers as you plan your move.
+      - generic [ref=f45e79]:
+        - group [ref=f45e80]:
+          - generic "How much does a removal cost?" [ref=f45e81] [cursor=pointer]
+        - group [ref=f45e82]:
+          - generic "Can you help with packing?" [ref=f45e83] [cursor=pointer]
+        - group [ref=f45e84]:
+          - generic "Do you offer storage?" [ref=f45e85] [cursor=pointer]
+        - group [ref=f45e86]:
+          - generic "What insurance applies?" [ref=f45e87] [cursor=pointer]
+    - generic [ref=f45e89]:
+      - text: READY WHEN YOU ARE
+      - heading "Ready to talk about your move?" [level=2] [ref=f45e90]
+      - paragraph [ref=f45e91]: Share your plans and get a personalised quote.
+      - link "Plan your move ↗" [ref=f45e92] [cursor=pointer]:
+        - /url: /Xwebsite/get-a-quote
+        - text: Plan your move
+        - generic [ref=f45e93]: ↗
+    - generic [ref=f45e95]:
+      - generic [ref=f45e96]:
+        - generic [ref=f45e97]:
+          - text: CUSTOMER EXPERIENCES
+          - heading "Words from people who moved with us." [level=2] [ref=f45e98]: Words from peoplewho moved with us.
+        - paragraph [ref=f45e99]: Read the full reviews and the latest feedback on the independent review profile.
+      - generic [ref=f45e100]:
+        - generic [ref=f45e101]:
+          - generic [ref=f45e102]: ✦
+          - text: CUSTOMER REVIEWS
+          - heading "Read the stories behind the moves." [level=3] [ref=f45e103]: Read the storiesbehind the moves.
+          - paragraph [ref=f45e104]: Visit the public Trustpilot profile to explore recent reviews and current ratings.
+          - link "See reviews on Trustpilot ↗" [ref=f45e105] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+        - article [ref=f45e106]:
+          - generic [ref=f45e107]: “
+          - blockquote [ref=f45e108]: Excellent customer service
+          - paragraph [ref=f45e109]: Georgia · Office move · August 2026
+          - link "Read on Trustpilot ↗" [ref=f45e110] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+          - text: ▣
+        - article [ref=f45e111]:
+          - generic [ref=f45e112]: “
+          - blockquote [ref=f45e113]: Responsive, prompt, friendly, professional.
+          - paragraph [ref=f45e114]: MaxH · Moving and storage · March 2026
+          - link "Read on Trustpilot ↗" [ref=f45e115] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+          - text: ▣
+      - generic [ref=f45e116]:
+        - generic [ref=f45e117]:
+          - generic [ref=f45e118]: B
+          - generic [ref=f45e119]:
+            - generic [ref=f45e120]: BAR membership
+            - generic [ref=f45e121]: Stated by the company since March 2026
+        - generic [ref=f45e122]:
+          - generic [ref=f45e123]: ✦
+          - generic [ref=f45e124]:
+            - generic [ref=f45e125]: Independent reviews
+            - generic [ref=f45e126]: Read customer experiences on Trustpilot
+        - generic [ref=f45e127]:
+          - generic [ref=f45e128]: ✓
+          - generic [ref=f45e129]:
+            - generic [ref=f45e130]: Written quotation
+            - generic [ref=f45e131]: Confirm services and terms before booking
+    - generic [ref=f45e132]:
+      - generic [ref=f45e133]:
+        - text: OUR SERVICE AREA
+        - heading "Moving across London & beyond." [level=2] [ref=f45e134]
+        - paragraph [ref=f45e135]: Explore the map and speak to our team about your collection and destination. Coverage is confirmed for each enquiry.
+        - generic [ref=f45e136]:
+          - generic [ref=f45e137]: Search an address or postcode
+          - generic [ref=f45e138]:
+            - searchbox "Search an address or postcode" [ref=f45e139]
+            - button "Search" [ref=f45e140] [cursor=pointer]
+          - paragraph [ref=f45e141]: Search uses OpenStreetMap; the location entered is sent to its service.
+          - status
+          - generic "Search results"
+        - link "Plan your move ↗" [ref=f45e142] [cursor=pointer]:
+          - /url: /Xwebsite/get-a-quote
+      - generic [ref=f45e143]:
+        - generic [ref=f45e144]:
+          - generic [ref=f45e145]: OUR SERVICE AREA
+          - generic [ref=f45e146]: London & beyond
+        - generic "Interactive map centred on London" [ref=f45e147]:
+          - generic:
+            - generic [ref=f45e148]:
+              - button "Zoom in" [ref=f45e149] [cursor=pointer]: +
+              - button "Zoom out" [ref=f45e150] [cursor=pointer]: −
+            - generic [ref=f45e151]:
+              - link "Leaflet" [ref=f45e152] [cursor=pointer]:
+                - /url: https://leafletjs.com
+              - text: "| © OpenStreetMap contributors"
+        - generic [ref=f45e157]: Map centred on London · Coverage confirmed per enquiry
+  - contentinfo [ref=f45e158]:
+    - generic [ref=f45e159]:
+      - generic [ref=f45e160]:
+        - link "X REMOVALS & STORAGE X" [ref=f45e161] [cursor=pointer]:
+          - /url: /Xwebsite/
+          - generic [ref=f45e162]: X
+          - generic [ref=f45e163]: REMOVALS &STORAGE X
+        - paragraph [ref=f45e164]: Thoughtful moves. Clearly planned.
+      - generic [ref=f45e165]:
+        - generic [ref=f45e166]: EXPLORE
+        - link "Our services" [ref=f45e167] [cursor=pointer]:
+          - /url: /Xwebsite/services
+        - link "Storage" [ref=f45e168] [cursor=pointer]:
+          - /url: /Xwebsite/storage
+        - link "Business moves" [ref=f45e169] [cursor=pointer]:
+          - /url: /Xwebsite/business-moves
+        - link "Pricing" [ref=f45e170] [cursor=pointer]:
+          - /url: /Xwebsite/pricing
+        - link "About us" [ref=f45e171] [cursor=pointer]:
+          - /url: /Xwebsite/about
+      - generic [ref=f45e172]:
+        - generic [ref=f45e173]: GET IN TOUCH
+        - link "0208 3517 101" [ref=f45e174] [cursor=pointer]:
+          - /url: tel:+442083517101
+        - link "info@removalsandstoragex.com" [ref=f45e175] [cursor=pointer]:
+          - /url: mailto:info@removalsandstoragex.com
+        - link "WhatsApp · 07555 081 555" [ref=f45e176] [cursor=pointer]:
+          - /url: https://wa.me/447555081555
+      - generic [ref=f45e177]:
+        - text: WHEREVER YOU’RE HEADED
+        - link "Let’s plan the move ↗" [ref=f45e178] [cursor=pointer]:
+          - /url: /Xwebsite/get-a-quote
+    - generic [ref=f45e179]:
+      - generic [ref=f45e180]: © 2026 Removals and Storage X
+      - generic [ref=f45e181]: London · England
+      - generic [ref=f45e182]: Quotes are personalised and subject to confirmation.
+      - generic [ref=f45e183]: Photography is illustrative.
+  - link "Contact Removals and Storage X" [ref=f45e184] [cursor=pointer]:
+    - /url: /Xwebsite/contact
+    - generic [ref=f45e185]: "?"
+    - generic [ref=f45e186]: Need a hand?

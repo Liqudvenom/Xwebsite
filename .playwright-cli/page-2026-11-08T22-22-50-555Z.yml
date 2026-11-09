@@ -1,0 +1,337 @@
+- generic [active] [ref=f44e1]:
+  - link "Skip to content" [ref=f44e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f44e3]:
+    - generic [ref=f44e4]: Carefully planned removals & storage in London
+    - generic [ref=f44e5]:
+      - text: Call the team
+      - link "0208 3517 101 ↗" [ref=f44e6] [cursor=pointer]:
+        - /url: tel:+442083517101
+  - banner [ref=f44e7]:
+    - link "Removals and Storage X home" [ref=f44e8] [cursor=pointer]:
+      - /url: /Xwebsite/
+      - generic [ref=f44e9]: X
+      - generic [ref=f44e10]: REMOVALS &STORAGE X
+    - button "Open navigation" [ref=f44e11]
+  - main [ref=f44e14]:
+    - generic [ref=f44e15]:
+      - generic [ref=f44e16]:
+        - generic [ref=f44e17]: LONDON · REMOVALS · STORAGE
+        - heading "Moving made effortless." [level=1] [ref=f44e19]
+        - paragraph [ref=f44e20]: From the first box to the final delivery, plan a London move with the details that matter to you.
+        - generic [ref=f44e22]:
+          - generic [ref=f44e23]: With you for
+          - generic [ref=f44e25]:
+            - generic [ref=f44e26]: every box packed
+            - generic [ref=f44e27]: every careful move
+            - generic [ref=f44e28]: every new beginning
+            - generic [ref=f44e29]: the journey home
+          - generic [ref=f44e30]: every step of your move.
+        - generic [ref=f44e31]:
+          - link "Plan your move ↗" [ref=f44e32] [cursor=pointer]:
+            - /url: /Xwebsite/get-a-quote
+            - text: Plan your move
+            - generic [ref=f44e33]: ↗
+          - link "Explore our services ↓" [ref=f44e34] [cursor=pointer]:
+            - /url: /Xwebsite/services
+            - text: Explore our services
+            - generic [ref=f44e35]: ↓
+        - generic [ref=f44e36]:
+          - generic [ref=f44e37]: B
+          - generic [ref=f44e38]:
+            - generic [ref=f44e39]: BAR member since March 2026
+            - generic [ref=f44e40]: As stated on the company website
+      - generic [ref=f44e42]:
+        - generic [ref=f44e43]:
+          - generic [ref=f44e44]: STEP 1 OF 8 · SERVICE
+          - generic [ref=f44e55]:
+            - heading "What can we help you move?" [level=3] [ref=f44e56]
+            - paragraph [ref=f44e57]: Choose a starting point. We will adapt the next questions to fit.
+            - generic [ref=f44e58]:
+              - button "⌂ House or flat" [ref=f44e59] [cursor=pointer]:
+                - generic [ref=f44e60]: ⌂
+                - generic [ref=f44e61]: House or flat
+              - button "▦ Office or business" [ref=f44e62] [cursor=pointer]:
+                - generic [ref=f44e63]: ▦
+                - generic [ref=f44e64]: Office or business
+              - button "▤ Storage" [ref=f44e65] [cursor=pointer]:
+                - generic [ref=f44e66]: ▤
+                - generic [ref=f44e67]: Storage
+              - button "↗ Man & van" [ref=f44e68] [cursor=pointer]:
+                - generic [ref=f44e69]: ↗
+                - generic [ref=f44e70]: Man & van
+              - button "◎ European move" [ref=f44e71] [cursor=pointer]:
+                - generic [ref=f44e72]: ◎
+                - generic [ref=f44e73]: European move
+          - alert [ref=f44e74]
+          - button "Continue →" [ref=f44e76] [cursor=pointer]
+        - generic [ref=f44e77]:
+          - generic [ref=f44e78]:
+            - generic [ref=f44e79]: ROUTE PREVIEW · NOT LIVE TRACKING
+            - button "Reset map view" [ref=f44e80] [cursor=pointer]: ↻
+          - generic [ref=f44e81]:
+            - text: YOUR JOURNEY
+            - paragraph [ref=f44e82]: Enter your collection and delivery locations to request a route.
+            - generic [ref=f44e83]: Map tiles and route data use public demo services and can be unavailable. No depot or live vehicle position is shown.
+            - button "Preview journey" [disabled] [ref=f44e84]
+            - button "Show map" [ref=f44e85]
+    - generic [ref=f44e86]:
+      - generic [ref=f44e87]:
+        - generic [ref=f44e88]:
+          - text: SUPPORT FOR EACH PART OF THE MOVE
+          - heading "Everything you need to move, considered." [level=2] [ref=f44e89]: Everything you needto move, considered.
+        - link "See all services ↗" [ref=f44e90] [cursor=pointer]:
+          - /url: /Xwebsite/services
+      - generic [ref=f44e91]:
+        - link "⌂ 01 / SERVICE House removals Home and flat moves planned around your property, contents and access. Explore service ↗" [ref=f44e92] [cursor=pointer]:
+          - /url: /Xwebsite/services/house-removals
+          - generic [ref=f44e93]: ⌂
+          - generic [ref=f44e94]: 01 / SERVICE
+          - heading "House removals" [level=3] [ref=f44e95]
+          - paragraph [ref=f44e96]: Home and flat moves planned around your property, contents and access.
+          - generic [ref=f44e97]:
+            - text: Explore service
+            - generic [ref=f44e98]: ↗
+        - link "▦ 02 / SERVICE Office & business Relocations shaped around equipment, loading and working hours. Explore service ↗" [ref=f44e99] [cursor=pointer]:
+          - /url: /Xwebsite/business-moves
+          - generic [ref=f44e100]: ▦
+          - generic [ref=f44e101]: 02 / SERVICE
+          - heading "Office & business" [level=3] [ref=f44e102]
+          - paragraph [ref=f44e103]: Relocations shaped around equipment, loading and working hours.
+          - generic [ref=f44e104]:
+            - text: Explore service
+            - generic [ref=f44e105]: ↗
+        - link "▤ 03 / SERVICE Storage Short and long-term storage, with collection and later delivery discussed. Explore service ↗" [ref=f44e106] [cursor=pointer]:
+          - /url: /Xwebsite/storage
+          - generic [ref=f44e107]: ▤
+          - generic [ref=f44e108]: 03 / SERVICE
+          - heading "Storage" [level=3] [ref=f44e109]
+          - paragraph [ref=f44e110]: Short and long-term storage, with collection and later delivery discussed.
+          - generic [ref=f44e111]:
+            - text: Explore service
+            - generic [ref=f44e112]: ↗
+        - link "□ 04 / SERVICE Packing Packing support and materials included in a clear moving plan. Explore service ↗" [ref=f44e113] [cursor=pointer]:
+          - /url: /Xwebsite/services/packing
+          - generic [ref=f44e114]: □
+          - generic [ref=f44e115]: 04 / SERVICE
+          - heading "Packing" [level=3] [ref=f44e116]
+          - paragraph [ref=f44e117]: Packing support and materials included in a clear moving plan.
+          - generic [ref=f44e118]:
+            - text: Explore service
+            - generic [ref=f44e119]: ↗
+        - link "✳ 05 / SERVICE Specialist items Tell us about antiques, fine art, pianos and fragile belongings. Explore service ↗" [ref=f44e120] [cursor=pointer]:
+          - /url: /Xwebsite/services/specialist-moving
+          - generic [ref=f44e121]: ✳
+          - generic [ref=f44e122]: 05 / SERVICE
+          - heading "Specialist items" [level=3] [ref=f44e123]
+          - paragraph [ref=f44e124]: Tell us about antiques, fine art, pianos and fragile belongings.
+          - generic [ref=f44e125]:
+            - text: Explore service
+            - generic [ref=f44e126]: ↗
+        - link "↗ 06 / SERVICE European moves Share your destination and timing for a personalised enquiry. Explore service ↗" [ref=f44e127] [cursor=pointer]:
+          - /url: /Xwebsite/services/european-removals
+          - generic [ref=f44e128]: ↗
+          - generic [ref=f44e129]: 06 / SERVICE
+          - heading "European moves" [level=3] [ref=f44e130]
+          - paragraph [ref=f44e131]: Share your destination and timing for a personalised enquiry.
+          - generic [ref=f44e132]:
+            - text: Explore service
+            - generic [ref=f44e133]: ↗
+    - region "Explore moving services" [ref=f44e134]:
+      - article [ref=f44e135]:
+        - generic [ref=f44e136]:
+          - text: MOVING HOME?
+          - heading "Let’s make your next move simple." [level=2] [ref=f44e137]: Let’s make yournext move simple.
+          - paragraph [ref=f44e138]: Thoughtful planning for your home, your belongings and the next chapter.
+          - link "Plan a home move ↗" [ref=f44e139] [cursor=pointer]:
+            - /url: /Xwebsite/get-a-quote?service=home
+            - text: Plan a home move
+            - generic [ref=f44e140]: ↗
+      - generic [ref=f44e141]:
+        - article [ref=f44e142]:
+          - generic [ref=f44e143]:
+            - text: BUSINESS MOVES
+            - heading "Keep your business moving." [level=2] [ref=f44e144]: Keep yourbusiness moving.
+            - paragraph [ref=f44e145]: Plan your relocation around your people, equipment and access.
+            - link "Plan a business move ↗" [ref=f44e146] [cursor=pointer]:
+              - /url: /Xwebsite/get-a-quote?service=office
+              - text: Plan a business move
+              - generic [ref=f44e147]: ↗
+        - article [ref=f44e148]:
+          - generic [ref=f44e149]:
+            - text: EUROPEAN MOVES
+            - heading "Further afield? Let’s make a plan." [level=2] [ref=f44e150]: Further afield?Let’s make a plan.
+            - paragraph [ref=f44e151]: Tell us your destination, timings and the details that matter.
+            - link "Explore European moves ↗" [ref=f44e152] [cursor=pointer]:
+              - /url: /Xwebsite/get-a-quote?service=europe
+              - text: Explore European moves
+              - generic [ref=f44e153]: ↗
+      - paragraph [ref=f44e154]: Illustrative imagery
+    - generic [ref=f44e155]:
+      - generic [ref=f44e160]: X
+      - generic [ref=f44e161]:
+        - text: FROM FIRST BOX TO FINAL DELIVERY
+        - heading "The little details make a better moving day." [level=2] [ref=f44e162]: The little details makea better moving day.
+        - paragraph [ref=f44e163]: From packing materials to furniture preparation, tell us what would make your move easier.
+        - link "Explore packing services ↗" [ref=f44e164] [cursor=pointer]:
+          - /url: /Xwebsite/services/packing
+      - link "Add packing to my plan ↗" [ref=f44e165] [cursor=pointer]:
+        - /url: /Xwebsite/get-a-quote?service=home&addon=packing
+    - generic [ref=f44e166]:
+      - generic [ref=f44e167]:
+        - generic [ref=f44e168]: THE JOURNEY, MADE CLEAR
+        - generic [ref=f44e169]: A move is a series of well-planned moments.
+      - generic [ref=f44e170]:
+        - article [ref=f44e171]:
+          - text: "01"
+          - generic [ref=f44e172]: ↗
+          - heading "You plan" [level=3] [ref=f44e173]
+          - paragraph [ref=f44e174]: Tell us the service, addresses, date and details that matter.
+        - article [ref=f44e175]:
+          - text: "02"
+          - generic [ref=f44e176]: ⌂
+          - heading "We collect" [level=3] [ref=f44e177]
+          - paragraph [ref=f44e178]: Collection is arranged around the agreed access and scope.
+        - article [ref=f44e179]:
+          - text: "03"
+          - generic [ref=f44e180]: ▤
+          - heading "We move or store" [level=3] [ref=f44e181]
+          - paragraph [ref=f44e182]: Moving and storage requirements are confirmed in your plan.
+        - article [ref=f44e183]:
+          - text: "04"
+          - generic [ref=f44e184]: ⌖
+          - heading "We deliver" [level=3] [ref=f44e185]
+          - paragraph [ref=f44e186]: Delivery is planned around the agreed date and destination.
+      - generic [ref=f44e187]:
+        - generic [ref=f44e189]: YOU BOOK
+        - generic [ref=f44e190]: WE COLLECT
+        - generic [ref=f44e191]: WE STORE
+        - generic [ref=f44e192]: WE DELIVER
+      - generic [ref=f44e193]:
+        - generic [ref=f44e194]:
+          - generic [aria-hidden] [ref=f44e195]: “
+          - generic [ref=f44e196]:
+            - paragraph [ref=f44e197]: Kind, friendly, knowledgeable, flexible and understanding.
+            - generic [ref=f44e198]:
+              - text: Customer in Surrey · October 2026 ·
+              - link "Read on Which? Trusted Traders ↗" [ref=f44e199] [cursor=pointer]:
+                - /url: https://trustedtraders.which.co.uk/businesses/removal-storage-experts-ltd/
+        - generic "Review and standards sources" [ref=f44e200]:
+          - link "Trustpilot Customer reviews ↗" [ref=f44e201] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+            - generic [aria-hidden] [ref=f44e202]: ✦
+            - generic [ref=f44e203]: Trustpilot
+            - generic [ref=f44e204]: Customer reviews ↗
+          - link "Which? Trusted Traders profile ↗" [ref=f44e205] [cursor=pointer]:
+            - /url: https://trustedtraders.which.co.uk/businesses/removal-storage-experts-ltd/
+            - generic [ref=f44e206]: Which?
+            - generic [ref=f44e207]: Trusted Traders profile ↗
+          - link "BAR Company membership statement ↗" [ref=f44e208] [cursor=pointer]:
+            - /url: /Xwebsite/about
+            - generic [ref=f44e209]: BAR
+            - generic [ref=f44e210]: Company membership statement ↗
+    - generic [ref=f44e211]:
+      - generic [ref=f44e212]:
+        - generic [ref=f44e213]:
+          - text: CUSTOMER EXPERIENCES
+          - heading "Words from people who moved with us." [level=2] [ref=f44e214]: Words from peoplewho moved with us.
+        - paragraph [ref=f44e215]: Read the full reviews and the latest feedback on the independent review profile.
+      - generic [ref=f44e216]:
+        - generic [ref=f44e217]:
+          - generic [ref=f44e218]: ✦
+          - text: CUSTOMER REVIEWS
+          - heading "Read the stories behind the moves." [level=3] [ref=f44e219]: Read the storiesbehind the moves.
+          - paragraph [ref=f44e220]: Visit the public Trustpilot profile to explore recent reviews and current ratings.
+          - link "See reviews on Trustpilot ↗" [ref=f44e221] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+        - article [ref=f44e222]:
+          - generic [ref=f44e223]: “
+          - blockquote [ref=f44e224]: Excellent customer service
+          - paragraph [ref=f44e225]: Georgia · Office move · August 2026
+          - link "Read on Trustpilot ↗" [ref=f44e226] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+          - text: ▣
+        - article [ref=f44e227]:
+          - generic [ref=f44e228]: “
+          - blockquote [ref=f44e229]: Responsive, prompt, friendly, professional.
+          - paragraph [ref=f44e230]: MaxH · Moving and storage · March 2026
+          - link "Read on Trustpilot ↗" [ref=f44e231] [cursor=pointer]:
+            - /url: https://uk.trustpilot.com/review/removalsandstoragex.com
+          - text: ▣
+      - generic [ref=f44e232]:
+        - generic [ref=f44e233]:
+          - generic [ref=f44e234]: B
+          - generic [ref=f44e235]:
+            - generic [ref=f44e236]: BAR membership
+            - generic [ref=f44e237]: Stated by the company since March 2026
+        - generic [ref=f44e238]:
+          - generic [ref=f44e239]: ✦
+          - generic [ref=f44e240]:
+            - generic [ref=f44e241]: Independent reviews
+            - generic [ref=f44e242]: Read customer experiences on Trustpilot
+        - generic [ref=f44e243]:
+          - generic [ref=f44e244]: ✓
+          - generic [ref=f44e245]:
+            - generic [ref=f44e246]: Written quotation
+            - generic [ref=f44e247]: Confirm services and terms before booking
+    - generic [ref=f44e248]:
+      - generic [ref=f44e249]:
+        - generic [ref=f44e250]: B
+        - generic [ref=f44e251]: A PROFESSIONAL STANDARD
+        - generic [ref=f44e252]: British Associationof Removers member
+        - generic [ref=f44e253]: Membership stated from March 2026 on the company website.
+      - generic [ref=f44e254]:
+        - text: CLEAR EXPECTATIONS, FROM THE START
+        - heading "A plan built around the real details." [level=2] [ref=f44e255]: A plan built aroundthe real details.
+        - paragraph [ref=f44e256]: Property access, parking, packing, storage and specialist belongings can all shape a move. Share what you know, and confirm the agreed service scope, pricing and insurance terms directly before booking.
+        - link "About Removals and Storage X ↗" [ref=f44e257] [cursor=pointer]:
+          - /url: /Xwebsite/about
+    - generic [ref=f44e258]:
+      - generic [ref=f44e259]:
+        - text: READY WHEN YOU ARE
+        - heading "Let’s make the next step feel simpler." [level=2] [ref=f44e260]: Let’s make the nextstep feel simpler.
+      - link "Start your moving plan ↗" [ref=f44e261] [cursor=pointer]:
+        - /url: /Xwebsite/get-a-quote
+        - text: Start your moving plan
+        - generic [ref=f44e262]: ↗
+  - contentinfo [ref=f44e263]:
+    - generic [ref=f44e264]:
+      - generic [ref=f44e265]:
+        - link "X REMOVALS & STORAGE X" [ref=f44e266] [cursor=pointer]:
+          - /url: /Xwebsite/
+          - generic [ref=f44e267]: X
+          - generic [ref=f44e268]: REMOVALS &STORAGE X
+        - paragraph [ref=f44e269]: Thoughtful moves. Clearly planned.
+      - generic [ref=f44e270]:
+        - generic [ref=f44e271]: EXPLORE
+        - link "Our services" [ref=f44e272] [cursor=pointer]:
+          - /url: /Xwebsite/services
+        - link "Storage" [ref=f44e273] [cursor=pointer]:
+          - /url: /Xwebsite/storage
+        - link "Business moves" [ref=f44e274] [cursor=pointer]:
+          - /url: /Xwebsite/business-moves
+        - link "Pricing" [ref=f44e275] [cursor=pointer]:
+          - /url: /Xwebsite/pricing
+        - link "About us" [ref=f44e276] [cursor=pointer]:
+          - /url: /Xwebsite/about
+      - generic [ref=f44e277]:
+        - generic [ref=f44e278]: GET IN TOUCH
+        - link "0208 3517 101" [ref=f44e279] [cursor=pointer]:
+          - /url: tel:+442083517101
+        - link "info@removalsandstoragex.com" [ref=f44e280] [cursor=pointer]:
+          - /url: mailto:info@removalsandstoragex.com
+        - link "WhatsApp · 07555 081 555" [ref=f44e281] [cursor=pointer]:
+          - /url: https://wa.me/447555081555
+      - generic [ref=f44e282]:
+        - text: WHEREVER YOU’RE HEADED
+        - link "Let’s plan the move ↗" [ref=f44e283] [cursor=pointer]:
+          - /url: /Xwebsite/get-a-quote
+    - generic [ref=f44e284]:
+      - generic [ref=f44e285]: © 2026 Removals and Storage X
+      - generic [ref=f44e286]: London · England
+      - generic [ref=f44e287]: Quotes are personalised and subject to confirmation.
+      - generic [ref=f44e288]: Photography is illustrative.
+  - link "Contact Removals and Storage X" [ref=f44e289] [cursor=pointer]:
+    - /url: /Xwebsite/contact
+    - generic [ref=f44e290]: "?"
+    - generic [ref=f44e291]: Need a hand?
